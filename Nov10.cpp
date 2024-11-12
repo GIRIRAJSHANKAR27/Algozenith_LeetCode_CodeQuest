@@ -1,9 +1,15 @@
-// Using a sliding window and bit-counting, the code efficiently finds the smallest subarray whose bitwise OR is at least k by tracking bit states across the window and dynamically adjusting its size.
-// steps:
-// 1)Sliding Window
-// 2)Bit Counting for Efficiency
-// 3)Bitwise OR Calculation
-// 4)Updating the Window
+/*
+Date: November 12, 2024
+Problem: Shortest Subarray With OR at Least K II
+Difficulty: Medium
+Time Complexity: O(n)
+Space Complexity: O(1)
+Using a sliding window and bit-counting, the code efficiently finds the smallest subarray whose bitwise OR is at least k by tracking bit states across the window and dynamically adjusting its size.
+ steps:
+ 1)Sliding Window
+ 2)Bit Counting for Efficiency
+ 3)Bitwise OR Calculation
+ 4)Updating the Window*/
 class Solution {
 public:
     int minimumSubarrayLength(vector<int>& nums, int k) {

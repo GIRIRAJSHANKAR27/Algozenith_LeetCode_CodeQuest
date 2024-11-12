@@ -1,7 +1,14 @@
-/*Using a prime sieve and sequential value checks, the code tries to transform each element in nums to an increasing sequence by subtracting only prime or zero values. If this is possible for all elements, it returns true; otherwise, false.
+/*
+Date: November 11, 2024
+Problem: Prime Subtraction Operation
+Difficulty: Medium
+Time Complexity: O(m * log(log(m)) + n)
+Space Complexity: O(m)
+Using a prime sieve and sequential value checks, the code tries to transform each element in nums to an increasing sequence by subtracting only prime or zero values. If this is possible for all elements, it returns true; otherwise, false.
 Solution Intuition
 -Prime Sieve for Primality Check
--Iterate and Transform*/
+-Iterate and Transform
+*/
 class Solution {
 public:
     bool primeSubOperation(vector<int>& nums) {

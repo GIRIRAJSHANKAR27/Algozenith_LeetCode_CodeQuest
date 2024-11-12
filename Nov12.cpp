@@ -1,4 +1,10 @@
-/*This solution first sorts items by price, then preprocesses them so each items[i][1] reflects the maximum beauty for items with prices up to items[i][0]. 
+/*
+Date: November 12, 2024
+Problem: Most Beautiful Item for Each Query
+Difficulty: Medium
+Time Complexity: O(n log n + q log n)
+Space Complexity: O(n + q)
+This solution first sorts items by price, then preprocesses them so each items[i][1] reflects the maximum beauty for items with prices up to items[i][0]. 
 For each query, a binary search efficiently finds the maximum beauty of items with prices within the query’s limit, producing the desired result in optimal time.
 Solution Intuition:
 -Sort Items by Price

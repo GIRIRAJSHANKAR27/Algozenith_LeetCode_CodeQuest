@@ -12,7 +12,7 @@ Each day, a new solution is added to this repository, with the filename reflecti
 | Nov 10  | [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii?envType=daily-question&envId=2024-11-10) | [Solution](./Nov10.cpp)                    |
 | Nov 11  | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation?envType=daily-question&envId=2024-11-11) | [Solution](./Nov11.cpp)                    |
 | Nov 12  | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query?envType=daily-question&envId=2024-11-12) | [Solution](./Nov12.cpp)                    |
-| Nov 13  | [LeetCode Problem Name](https://leetcode.com/) | [Solution](./Nov13.cpp)                    |
+| Nov 13  | [LeetCode Problem Name](https://leetcode.com/problems/count-the-number-of-fair-pairs?envType=daily-question&envId=2024-11-13) | [Solution](./Nov13.cpp)                    |
 | Nov 14  | [LeetCode Problem Name](https://leetcode.com/) | [Solution](./Nov14.cpp)                    |
 | Nov 15  | [LeetCode Problem Name](https://leetcode.com/) | [Solution](./Nov15.cpp)                    |
 | Nov 16  | [LeetCode Problem Name](https://leetcode.com/) | [Solution](./Nov16.cpp)                    |

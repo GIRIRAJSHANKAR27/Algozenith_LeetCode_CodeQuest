@@ -13,7 +13,7 @@ Each day, a new solution is added to this repository, with the filename reflecti
 | Nov 11  | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation?envType=daily-question&envId=2024-11-11) | [Solution](./Nov11.cpp)                    |
 | Nov 12  | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query?envType=daily-question&envId=2024-11-12) | [Solution](./Nov12.cpp)                    |
 | Nov 13  | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs?envType=daily-question&envId=2024-11-13) | [Solution](./Nov13.cpp)                    |
-| Nov 14  | [LeetCode Problem Name](https://leetcode.com/) | [Solution](./Nov14.cpp)                    |
+| Nov 14  | [2064. Minimized Maximum of Products Distributed to Any Store]([https://leetcode.com/](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store?envType=daily-question&envId=2024-11-14)) | [Solution](./Nov14.cpp)                    |
 | Nov 15  | [LeetCode Problem Name](https://leetcode.com/) | [Solution](./Nov15.cpp)                    |
 | Nov 16  | [LeetCode Problem Name](https://leetcode.com/) | [Solution](./Nov16.cpp)                    |
 | Nov 17  | [LeetCode Problem Name](https://leetcode.com/) | [Solution](./Nov17.cpp)                    |
